@@ -46,4 +46,4 @@ Transactions are managed using session functions to ensure all operations are ex
   <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
 </p>
 
-#### Created by [Ashish Patel](https://www.linkedin.com/in/ashishpatel3009)
+#### Created by [Anjali Upadhyay]([https://www.linkedin.com/in/ashishpatel3009](https://www.linkedin.com/in/anjaliupadhyay392)
