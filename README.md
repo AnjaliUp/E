@@ -9,7 +9,7 @@ A simple wallet app where users can send and receive money through transactions 
 ![alt text](image-2.png)
 ![alt text](image-3.png)
 
-### Features Include
+### Features Include.
 
 - 🔹 User signup
 - 🔹 User signin
