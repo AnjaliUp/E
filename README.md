@@ -45,5 +45,4 @@ Transactions are managed using session functions to ensure all operations are ex
   <img src="https://img.shields.io/badge/Axios-5A29E3?style=flat-square&logo=axios&logoColor=white" alt="Axios" />
   <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
 </p>
-
 #### Created by [Anjali Upadhyay]([https://www.linkedin.com/in/anjaliupadhyay392])
